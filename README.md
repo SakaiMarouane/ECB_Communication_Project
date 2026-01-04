@@ -89,6 +89,8 @@ python src/04_sentiment_lm.py
 python src/05_market_data.py
 python src/07_event_study_constant_mean.py
 python src/08_regressions.py
+python src/09_extension_regressions.py
+python src/10_extension_figures.py
 ```
 
 ## Methodology
