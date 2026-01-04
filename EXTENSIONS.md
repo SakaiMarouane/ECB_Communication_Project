@@ -290,9 +290,3 @@ python src/10_extension_figures.py
 - Baker, S. R., Bloom, N., & Davis, S. J. (2016). Measuring economic policy uncertainty. *Quarterly Journal of Economics*, 131(4), 1593-1636.
 - Knight, F. H. (1921). *Risk, Uncertainty and Profit*. Houghton Mifflin.
 - Loughran, T., & McDonald, B. (2011). When is a liability not a liability? Textual analysis, dictionaries, and 10-Ks. *Journal of Finance*, 66(1), 35-65.
-
----
-
-## Authors
-
-ECB Communication Research Project - Extensions
