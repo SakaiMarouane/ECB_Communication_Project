@@ -89,8 +89,6 @@ python src/04_sentiment_lm.py
 python src/05_market_data.py
 python src/07_event_study_constant_mean.py
 python src/08_regressions.py
-python src/09_extension_regressions.py
-python src/10_extension_figures.py
 ```
 
 ## Methodology
@@ -165,3 +163,7 @@ Decomposes sentiment following Knight (1921):
 - **Differential effects**: Tests whether markets respond differently to each component
 
 See [EXTENSIONS.md](EXTENSIONS.md) for full documentation.
+
+## Authors
+
+ECB Communication Research Project - Replication and Extension Study
