@@ -163,7 +163,3 @@ Decomposes sentiment following Knight (1921):
 - **Differential effects**: Tests whether markets respond differently to each component
 
 See [EXTENSIONS.md](EXTENSIONS.md) for full documentation.
-
-## Authors
-
-ECB Communication Research Project - Replication and Extension Study
